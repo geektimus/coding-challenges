@@ -1,3 +1,6 @@
 [submodule "java"]
 	path = java
 	url = https://github.com/geektimus/java-challenges
+[submodule "scala"]
+	path = scala
+	url = https://github.com/geektimus/scala-challenges
