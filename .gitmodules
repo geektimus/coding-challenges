@@ -4,3 +4,6 @@
 [submodule "scala"]
 	path = scala
 	url = https://github.com/geektimus/scala-challenges
+[submodule "go"]
+	path = go
+	url = https://github.com/geektimus/go-challenges
